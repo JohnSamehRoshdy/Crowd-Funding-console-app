@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "c2cc1d44-cdb0-11ee-9584-7c67a28a5e12",
+            "title": "Assuit Power Plant",
+            "details": "Electrical power plant in Assuit depends on gasoline",
+            "totaltarget": "2500000",
+            "start": "25-12-2012",
+            "end": "25-12-2017"
+        },
+        {
+            "id": "1c6931ac-cdb1-11ee-9584-7c67a28a5e12",
+            "title": "Sohag Water Drain",
+            "details": "Water Drain in Sohag with width of 100m and depth of 8m",
+            "totaltarget": "90000000",
+            "start": "13-11-2008",
+            "end": "13-11-2013"
+        },
+        {
+            "id": "4f317ff4-cdb1-11ee-9584-7c67a28a5e12",
+            "title": "Asswan Factory of foods",
+            "details": "Factory of foods in Asswan with 1000 tons productivity of food",
+            "totaltarget": "65000000",
+            "start": "25-12-2017",
+            "end": "25-12-2024"
+        },
+        {
+            "id": "a02162c6-cdb1-11ee-9584-7c67a28a5e12",
+            "title": "ElMenia Salam schools",
+            "details": "A school in Elmenia with capacity of 2000 students ",
+            "totaltarget": "1500000",
+            "start": "13-11-2018",
+            "end": "23-11-2023"
+        }
+    ]
+}
